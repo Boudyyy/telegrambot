@@ -1,5 +1,5 @@
 # NaVi Bot
 A simple telegram bot that basically just gives you some scripted information.
-![](http://prntscr.com/vcrrnf.png)
-![](http://prntscr.com/vcrx9b.png)
-![](http://prntscr.com/vcrxgc.png)
+![](https://github.com/Boudyyy/telegrambot/blob/main/Screenshot_1.png?raw=true.png)
+![](https://github.com/Boudyyy/telegrambot/blob/main/Screenshot_2.png?raw=true.png)
+![](https://github.com/Boudyyy/telegrambot/blob/main/Screenshot_3.png?raw=true.png)
